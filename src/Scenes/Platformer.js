@@ -11,8 +11,7 @@ class Platformer extends Phaser.Scene {
         this.JUMP_VELOCITY = -600;
         this.PARTICLE_VELOCITY = 50;
         this.SCALE = 2.0;
-        this.coinGet = 4;
-        //123
+        this.coinGet = 123;
     }
 
     create() {
